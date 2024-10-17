@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "dashboard_telecom"
+  title: "Ринок ШСД"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Дашборд
+      - Аналіз.qmd
 
 format:
   html:

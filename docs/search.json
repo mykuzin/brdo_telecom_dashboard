@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "dashboard_telecom",
+    "title": "Класний дашборд про постачальників фіксованого Інтернет-доступу",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Це текст\n\n                   3"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Аналіз.html",
+    "href": "Аналіз.html",
+    "title": "Аналіз",
+    "section": "",
+    "text": "Тут солідні аргументи, чому спрощену систему слід лишити"
   }
 ]
